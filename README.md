@@ -23,7 +23,7 @@ Welcome to follow and star!
   - [T-PAMI](#T-PAMI) 
   - [Arxiv](#arxiv)
   - [Others](#others)
-- [Contributing](#contributing)
+
 
 
 ## An Overview of End-to-End Driving Method
