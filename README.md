@@ -34,15 +34,7 @@ The recent end-to-end driving methods can be divided into two mainstreams: imita
 
 
 
-## Papers
 
-```
-format:
-- [title](paper link) [links]
-  - author1, author2, and author3.
-  - key 
-  - experiment environment
-```
 
 
 ### ECCV 2022
