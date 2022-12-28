@@ -210,5 +210,3 @@ format:
     - Env: [CARLA](https://carla.org/)
 
 
-## License
-Awesome End-to-End Autonomous driving is released under the Apache 2.0 license.
