@@ -32,7 +32,7 @@ The end-to-end driving methods aim at building a drive model that at each timest
 
 The recent end-to-end driving methods can be divided into two mainstreams: imitation learning and reinforcement learning. Reinforcement learning (RL) is one of the most interesting areas of machine learning, where an agent interacts with an environment by following a policy. In each state of the environment, it takes action based on the policy, and as a result, receives a reward and transitions to a new state. The goal of RL is to learn an optimal policy which maximizes the long-term cumulative rewards.  In imitation learning instead of trying to learn from the sparse rewards or manually specifying a reward function, an expert (typically a human) provides us with a set of demonstrations. The agent then tries to learn the optimal policy by following, imitating the expert’s decisions.
 
-<img src="assets/pipeline.png" height="350">
+<img src="pipeline.png" height="350">
 
 
 ## Papers
